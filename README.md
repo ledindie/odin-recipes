@@ -1,1 +1,1 @@
-# odin-recipes
+This project is to create a website that will have linkes to some different cooking recipes. This project will enhance my git and html skills.
